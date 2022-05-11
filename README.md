@@ -1,3 +1,1 @@
-# penguin-fashion-tailwind
-
-insha-s-penguin-fashion-tailwind.netlify.app
+https://insha-s-penguin-fashion-tailwind.netlify.app
